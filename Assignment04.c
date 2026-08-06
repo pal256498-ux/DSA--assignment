@@ -1,3 +1,10 @@
+ /* WACP to take input in an array 10 unordered number and
+apply QuickSort to order the array in ascending order.
+input values:- [8,2,10,6,5,12,18,9,4,11]*/
+
+
+
+
 #include <stdio.h>
 
 void quickSort(int arr[], int low, int high);
